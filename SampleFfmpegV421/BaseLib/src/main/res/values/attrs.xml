@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageView">
+        <attr name="imgUrl" format="string"/>
+        <attr name="imgUrlCircle" format="string"/>
+        <attr name="picUrl" format="string"/>
+        <attr name="placeHolder" format="reference"/>
+        <attr name="roundRadius" format="integer"/>
+    </declare-styleable>
+
+</resources>
