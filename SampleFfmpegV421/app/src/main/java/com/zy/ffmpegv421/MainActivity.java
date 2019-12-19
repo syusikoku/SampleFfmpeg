@@ -1,31 +1,28 @@
 package com.zy.ffmpegv421;
 
-import android.os.Bundle;
-import android.widget.TextView;
+import com.kasaax.commons.base.BaseDataBindingActivity;
+import com.zy.ffmpegv421.databinding.ActivityMainBinding;
 
-import java.util.LinkedHashMap;
-import java.util.Map;
-
-import androidx.appcompat.app.AppCompatActivity;
-
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseDataBindingActivity<ActivityMainBinding> {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-
-        Map<String, String> map = new LinkedHashMap<>();
-
-        // Example of a call to a native method
-        TextView tv = findViewById(R.id.sample_text);
-        tv.setText(FfmpegUtils.stringFromJNI());
+    protected int getLayoutResId() {
+        return R.layout.activity_main;
     }
 
-    /**
-     * A native method that is implemented by the 'native-lib' native library,
-     * which is packaged with this application.
-     */
+    @Override
+    protected void initDataBinding() {
+        mBinding.setEventProcessor(new MainEventProcessor());
+    }
 
+    @Override
+    protected void initData() {
+        mBinding.sampleText.setText(FfmpegUtils.stringFromJNI());
+    }
+
+    public class MainEventProcessor {
+        public void testFirst() {
+            showShortToast("测试ffmpeg");
+        }
+    }
 }
