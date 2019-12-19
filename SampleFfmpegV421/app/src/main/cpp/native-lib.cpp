@@ -38,6 +38,9 @@ Java_com_zy_ffmpegv421_FfmpegUtils_decode(JNIEnv *env, jclass clazz, jstring inp
 extern "C"
 JNIEXPORT jstring JNICALL
 Java_com_zy_ffmpegv421_FfmpegUtils_printMetaData(JNIEnv *env, jclass clazz, jstring video_path) {
+
+    av_register_all();
+
     AVFormatContext *fmt_ctx = NULL;
     AVDictionaryEntry *tag = NULL;
 
