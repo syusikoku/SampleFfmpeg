@@ -25,4 +25,6 @@ public class FfmpegUtils {
     public static native String stringFromJNI();
 
     public static native void decode(String input, String output);
+
+    public static native String printMetaData(String videoPath);
 }

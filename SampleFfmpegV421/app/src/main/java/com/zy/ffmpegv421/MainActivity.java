@@ -22,7 +22,9 @@ public class MainActivity extends BaseDataBindingActivity<ActivityMainBinding> {
 
     public class MainEventProcessor {
         public void testFirst() {
-            showShortToast("测试ffmpeg");
+            mBinding.sampleText.setText("数据解析中，请稍候");
+            String ret = FfmpegUtils.printMetaData("/mnt/sdcard/testffmpeg/test.mp4");
+            mBinding.sampleText.setText(ret);
         }
     }
 }
