@@ -10,6 +10,7 @@ add_library( # Sets the name of the library.
         native-lib.cpp
         AndroidLog.h
         mock_consumption_task.cpp
+        ListenerWrapper.cpp
         )
 
 

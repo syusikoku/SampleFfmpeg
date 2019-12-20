@@ -41,3 +41,10 @@ Java_com_zy_jthread_ThreadTestHelper_consumptionTask(JNIEnv *env, jobject thiz) 
     LOGE("native exec consumptiontask...");
     runMockConsumptionTask();
 }
+
+extern "C"
+JNIEXPORT void JNICALL
+Java_com_zy_jthread_ThreadTestHelper_callErrorListener(JNIEnv *env, jobject thiz) {
+
+
+}
