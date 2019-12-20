@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="en_days">
+        <item>@string/en_01</item>
+        <item>@string/en_02</item>
+        <item>@string/en_03</item>
+        <item>@string/en_04</item>
+        <item>@string/en_05</item>
+        <item>@string/en_06</item>
+        <item>@string/en_07</item>
+        <item>@string/en_08</item>
+        <item>@string/en_09</item>
+        <item>@string/en_10</item>
+        <item>@string/en_11</item>
+    </string-array>
+
+    <string-array name="sg_list">
+        <item>@string/sg_1</item>
+        <item>@string/sg_2</item>
+        <item>@string/sg_3</item>
+        <item>@string/sg_4</item>
+        <item>@string/sg_5</item>
+        <item>@string/sg_6</item>
+        <item>@string/sg_7</item>
+        <item>@string/sg_8</item>
+    </string-array>
+
+    <string-array name="english_words">
+        <item>@string/enlistn_1</item>
+        <item>@string/enlistn_2</item>
+        <item>@string/enlistn_3</item>
+        <item>@string/enlistn_4</item>
+        <item>@string/enlistn_5</item>
+        <item>@string/enlistn_6</item>
+        <item>@string/enlistn_7</item>
+        <item>@string/enlistn_8</item>
+        <item>@string/enlistn_9</item>
+        <item>@string/enlistn_10</item>
+        <item>@string/enlistn_11</item>
+        <item>@string/enlistn_12</item>
+        <item>@string/enlistn_13</item>
+        <item>@string/enlistn_14</item>
+        <item>@string/enlistn_15</item>
+        <item>@string/enlistn_16</item>
+        <item>@string/enlistn_17</item>
+        <item>@string/enlistn_18</item>
+        <item>@string/enlistn_19</item>
+        <item>@string/enlistn_20</item>
+    </string-array>
+
+    <integer-array name="color_list">
+        <item>@color/material_pink_900</item>
+        <item>@color/material_amber_400</item>
+        <item>@color/material_amber_600</item>
+        <item>@color/material_amber_800</item>
+        <item>@color/material_amber_900</item>
+        <item>@color/material_amber_accent_400</item>
+        <item>@color/material_blue_200</item>
+        <item>@color/material_blue_300</item>
+        <item>@color/material_blue_500</item>
+        <item>@color/material_blue_900</item>
+        <item>@color/material_blue_grey_500</item>
+        <item>@color/material_blue_grey_700</item>
+        <item>@color/material_blue_grey_800</item>
+        <item>@color/material_green_200</item>
+        <item>@color/material_teal_300</item>
+        <item>@color/material_deep_orange_900</item>
+        <item>@color/material_cyan_700</item>
+        <item>@color/material_cyan_800</item>
+        <item>@color/material_cyan_900</item>
+        <item>@color/material_deep_orange_200</item>
+        <item>@color/material_green_400</item>
+    </integer-array>
+
+    <string-array name="jl_words">
+        <item>@string/jl_word_1</item>
+        <item>@string/jl_word_2</item>
+        <item>@string/jl_word_3</item>
+        <item>@string/jl_word_4</item>
+        <item>@string/jl_word_5</item>
+        <item>@string/jl_word_6</item>
+        <item>@string/jl_word_7</item>
+        <item>@string/jl_word_8</item>
+        <item>@string/jl_word_9</item>
+        <item>@string/jl_word_10</item>
+        <item>@string/jl_word_11</item>
+        <item>@string/jl_word_12</item>
+        <item>@string/jl_word_13</item>
+        <item>@string/jl_word_14</item>
+        <item>@string/jl_word_15</item>
+        <item>@string/jl_word_16</item>
+        <item>@string/jl_word_17</item>
+        <item>@string/jl_word_18</item>
+        <item>@string/jl_word_19</item>
+        <item>@string/jl_word_20</item>
+    </string-array>
+
+    <string-array name="jdsc">
+        <item>@string/jdsj_word1</item>
+        <item>@string/jdsj_word2</item>
+        <item>@string/jdsj_word3</item>
+        <item>@string/jdsj_word4</item>
+        <item>@string/jdsj_word5</item>
+        <item>@string/jdsj_word6</item>
+    </string-array>
+
+    <string-array name="li_words_cn">
+        <item>@string/liz_cn_1</item>
+        <item>@string/liz_cn_2</item>
+        <item>@string/liz_cn_3</item>
+        <item>@string/liz_cn_4</item>
+        <item>@string/liz_cn_5</item>
+        <item>@string/liz_cn_6</item>
+        <item>@string/liz_cn_7</item>
+        <item>@string/liz_cn_8</item>
+        <item>@string/liz_cn_9</item>
+        <item>@string/liz_cn_10</item>
+        <item>@string/liz_cn_11</item>
+        <item>@string/liz_cn_12</item>
+        <item>@string/liz_cn_13</item>
+        <item>@string/liz_cn_14</item>
+        <item>@string/liz_cn_15</item>
+        <item>@string/liz_cn_16</item>
+        <item>@string/liz_cn_17</item>
+        <item>@string/liz_cn_18</item>
+        <item>@string/liz_cn_19</item>
+        <item>@string/liz_cn_20</item>
+        <item>@string/liz_cn_21</item>
+    </string-array>
+
+    <string-array name="li_words_en">
+        <item>@string/liz_en_1</item>
+        <item>@string/liz_en_2</item>
+        <item>@string/liz_en_3</item>
+        <item>@string/liz_en_4</item>
+        <item>@string/liz_en_5</item>
+        <item>@string/liz_en_6</item>
+        <item>@string/liz_en_7</item>
+        <item>@string/liz_en_8</item>
+        <item>@string/liz_en_9</item>
+        <item>@string/liz_en_10</item>
+        <item>@string/liz_en_11</item>
+        <item>@string/liz_en_12</item>
+        <item>@string/liz_en_13</item>
+        <item>@string/liz_en_14</item>
+        <item>@string/liz_en_15</item>
+        <item>@string/liz_en_16</item>
+        <item>@string/liz_en_17</item>
+        <item>@string/liz_en_18</item>
+        <item>@string/liz_en_19</item>
+        <item>@string/liz_en_20</item>
+        <item>@string/liz_en_21</item>
+    </string-array>
+</resources>

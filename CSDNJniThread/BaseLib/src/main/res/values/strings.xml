@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">BaseLib</string>
+
+    <string name="en_01">Singing from the same hymn sheet</string>
+    <string name="en_02">Joined-up thinking</string>
+    <string name="en_03">Talk the talk, walk the walk</string>
+    <string name="en_04">Ball-park figure</string>
+    <string name="en_05">Pushing the envelope</string>
+    <string name="en_06">I don\'t have any bandwidth on this one</string>
+    <string name="en_07">Stir fry an idea in your think wok</string>
+    <string name="en_08">Bobble heading</string>
+    <string name="en_09">I\'m on cloud nine</string>
+    <string name="en_10">I\'m in seventh heaven.</string>
+    <string name="en_11">I\'m walking on air.</string>
+
+
+    <string name="sg_1">天高云淡，望断南飞雁。  不到长城非好汉，屈指行程二万。  六盘山上高峰，红旗漫卷西风。  今日长缨在手，何时缚住苍龙？</string>
+    <string name="sg_2">西风烈，长空雁叫霜晨月。  霜晨月，马蹄声碎，喇叭声咽。  雄关漫道真如铁，而今迈步从头越。  从头越，苍山如海，残阳如血。</string>
+    <string name="sg_3">大雨落幽燕，白浪滔天，秦皇岛外打鱼船。  一片汪洋都不见，知向谁边？  往事越千年，魏武挥鞭，东临碣石有遗篇。  萧瑟秋风今又是，换了人间。</string>
+    <string name="sg_4">风雨送春归，飞雪迎春到。  已是悬崖百丈冰，犹有花枝俏。  俏也不争春，只把春来报。  待到山花烂漫时，她在丛中笑。</string>
+    <string name="sg_5">饮茶粤海未能忘，索句渝州叶正黄。  三十一年还旧国，落花时节读华章。  牢骚太盛防肠断，风物长宜放眼量。  莫道昆明池水浅，观鱼胜过富春江。</string>
+    <string name="sg_6">小小寰球，有几个苍蝇碰壁。  嗡嗡叫，几声凄厉，几声抽泣。  蚂蚁缘槐夸大国，蚍蜉撼树谈何易。  正西风落叶下长安，飞鸣镝。  多少事，从来急；天地转，光阴迫。  一万年太久，只争朝夕。
+        四海翻腾云水怒，五洲震荡风雷激。  要扫除一切害人虫，全无敌。</string>
+    <string name="sg_7">北国风光，千里冰封，万里雪飘。 望长城内外，惟馀莽莽； 大河上下，顿失滔滔。 山舞银蛇，原驰蜡象，欲与天公试比高。 须晴日，看红妆素裹，分外妖娆。  江山如此多娇， 引无数英雄竞折腰。
+        惜秦皇汉武，略输文采； 唐宗宋祖，稍逊风骚。 一代天骄，成吉思汗，只识弯弓射大雕。 俱往矣，数风流人物，还看今朝。</string>
+    <string name="sg_8">当年忠贞为国酬，何曾怕断头？ 如今天下红遍，江山靠谁守？ 业未就，身躯倦，鬓已秋。 你我之辈，忍将夙愿，付与东流？</string>
+
+
+    <string name="enlistn_1">go for it,just do it</string>
+    <string name="enlistn_2">beeter late than never</string>
+    <string name="enlistn_3">Don\'t give up and dont\'t give in</string>
+    <string name="enlistn_4">one today is worth two tomorrows</string>
+    <string name="enlistn_5">a bold attempt is half success</string>
+    <string name="enlistn_6">Do what you say,say what you do</string>
+    <string name="enlistn_7">Zero in your target,and go for it.</string>
+    <string name="enlistn_8">Never, never, never, never give up</string>
+    <string name="enlistn_9">There is only one me in this world.</string>
+    <string name="enlistn_10">When it has is lost, brave to give up.</string>
+    <string name="enlistn_11">Youth means limitless possibilities</string>
+    <string name="enlistn_12">i know that my future is not just a dream</string>
+    <string name="enlistn_13">Real dream is the other shore of reality</string>
+    <string name="enlistn_14">Say goodbye to the depravation of yesterday</string>
+    <string name="enlistn_15">If you get tired, learn to rest, not to quit</string>
+    <string name="enlistn_16">You are not brave, no one for you to be strong</string>
+    <string name="enlistn_17">Quitters never win and winners never quit.</string>
+    <string name="enlistn_18">Victory won\'t come to me unless I go to it.</string>
+    <string name="enlistn_19">Try your best when you are young.Never regret</string>
+    <string name="enlistn_20">Youth gives you light please don\'t let it down</string>
+    <string name="enlistn_21">Achievement provides the only real pleasure in life.</string>
+
+    <string name="jl_word_1">心态好，人缘好，因为懂得宽容;心态好，做事顺利，因为不拘小节;心态好，生活愉快，因为懂得放下。心态好的人，处处圆融，处处圆满。好的心态，能激发人生最大的潜能，是人生最大的财富。</string>
+    <string name="jl_word_2">做人做事都是一样的道理，坚持，努力，奋斗!如果连这点决心都没有，还不如回家种地!</string>
+    <string name="jl_word_3">属于你的，就没人能拿走;
+        在生活和工作之中，如果你应为琐碎的事情而去急躁发怒，在这时，你最好先去休息一下，或者出去旅游一段时间，到一处环境优雅的地方，或者找出令你急躁的原因，并想办法解除他或进行补救。</string>
+    <string name="jl_word_4">
+        永远不要放弃，坚持走下去，肯定会有意想不到的风景。也许不在你本来想走的路上，也不是你本来想登临的山顶，可另一条路也有另一条路的风景，不同的山顶也一样会有美丽的日出，走上一条新路。</string>
+    <string name="jl_word_5">很多时候，我们想要的只是一个肯定的眼神和一颗理解的心。人生的一切，不是算来的，而是感来的;不是求来的，而是修来的。</string>
+    <string name="jl_word_6">每一个优秀的人，都有一段沉默的时光。人生的每一笔经历，都在书写自己的简历。自己拼出来的东西，和别人送到嘴边的东西，意义和珍惜的程度都大为不同。决定你高度的，是你对自己的要求。
+    </string>
+    <string name="jl_word_7">顺境时，多一份思索，逆境时，多一份勇气;成功时，多一份淡然，彷徨时，多一份信念。如果想照耀人生，请加点信心。如果想抱住情人，请吸取教训。如果想快乐做人，请敲敲你心。</string>
+    <string name="jl_word_8">越长大越不敢依赖别人，因为人心易变，自己给的，才叫安全感。一个人还是得勇敢走下去，不动声色地成长;想让父母过得更好，想让梦想掷地有声; 想让爱的人不失望。倚靠自己，少一点矫情，多一些努力。在路上，奔未来。</string>
+    <string name="jl_word_9">如果你不握紧拳头，你就不知道你力量到底有多大;如果你不咬紧牙关，你就不知道你的坚持到底有多狠;如果你不跺脚而起，你就不知道你的果决到底有多正确;
+        如果你不瞪眼，你就不知道你的内心到底多强大。最强悍的竞争力只有两个字：行动。只有当你足够努力，你才会足够幸运。这世界不会辜负每一份努力和坚持。</string>
+    <string name="jl_word_10">想成为更好的自己，就去见识更大的世界，认识更多奇妙的人，汲取更广泛的知识。你不需要别人过多的称赞，因为你自己知道自己有多好。内心的强大，永远胜过外表的浮华。</string>
+    <string name="jl_word_11"> 一个人只有保持快乐和满足，才能够远离痛苦;一个人只有保持青春活力，才能够急流勇进;一个人只有坚持学习，才能够与时俱进;一个人只有坚持奋进，才能够永远年轻。</string>
+    <string name="jl_word_12">
+        生活如此美好，它让人历练，让人成长，让人珍惜!天下之事岂能尽如人意，但求无愧于心，无憾于人生!在单调的生活中寻觅风景，你会收获美好;在繁杂的生活中追求简单，你会收获思想;在苦涩的生活中品味感动，你会收获幸福。</string>
+    <string name="jl_word_13"> 请不要吝啬你的微笑，因为微笑可以给人力量。请不要吝啬你的善良，因为善良可以给人坚强。请不要吝啬你的真诚，因为真诚可以给人信任。请不要吝啬你的热情，因为热情可以给人奋发向上。
+    </string>
+    <string name="jl_word_14"> 我们不能控制自己的遭遇，但是我们是可以控制自己的心态；我们改变不了别人，我们却是可以去改变自己；我们是改变不了已经发生的事情，但是我们是可以去调节自己的心态。</string>
+    <string name="jl_word_15"> 人活一世，无所谓得到，亦无所谓失去，这世上没有什么东西真正属于你。得到了，终会失去的;失去了，便是得到过。</string>
+    <string name="jl_word_16">
+        人生一辈子，只要你一直前行，你就会看到更多更美的风景，不要碰到压力就把自己变得不堪重负，黯淡无光。成功的人懂得熬，失败的人懂得逃，卓越的人懂得迎风前行并思考!其实放弃和坚持就在一瞬间，扛住了，世界就是你的!</string>
+    <string name="jl_word_17">
+        人生中，有些东西，只是数字，不必太刻意;有些人，只是过客，不必太留恋;有些事情，也只是事情，不必太奢望。拥有一份美丽的心情，一个简单的心境，一种幸福的感觉，即使不完美，也是最美。</string>
+    <string name="jl_word_18"> 走自己的路，按自己的原则好好生活。即使有人亏待了你，时间也不会亏待你，人生更加不会亏待你！</string>
+    <string name="jl_word_19"> 如果是对的，就别在意他人的评说，那只能左右你的判断;如果需要艰辛的付出，那就不要吝啬你的努力，从来没有一种真正的成功，可以毫不费力地生长于荒草丛中;如果付出与收获不对等，无须有过多的抱怨，这会让你的心更累;如果面临最彻底的失败，也不必和命运较真，我们来世上走一遭，都有许多不容易。</string>
+    <string name="jl_word_20"> 没有不劳而获，没有坐享其成，若比别人贪心，请比别人用心，一份耕耘，一份收获!不求与人攀比，但求超越自己……</string>
+
+
+    <string name="jdsj_word1">
+        古有"孟母三迁"，足以说明和谁在一起的确很重要。雄鹰在鸡窝里长大，就会失落去飞翔的本领，怎能搏击长空，翱翔蓝天？野狼在羊群里成长，也会"爱上羊"而丧失狼性，怎能叱咤风云，驰骋大地？</string>
+    <string name="jdsj_word2">
+        《荀子》中说：学莫便乎近其人，礼乐法而不说，诗书故而不切，春秋约而不速，方其人之习君子之说，则尊以遍矣，周于世矣。故曰：学莫便乎近其人。常与高人相会，懂得向高人学习，正如山东快书艺术大师高元钧所说："见高人不能擦肩而过，要学会登门求教。"</string>
+    <string name="jdsj_word3">与凤凰同飞，必是俊鸟；与虎狼同行，必是猛兽！能走多远，看你与谁同行。和勤奋的人在一起，你不会懒惰;和积极的人在一起，你不会消沉。与智者同行，你会不同凡响;与高人为伍，你能登上巅峰。和什么样人在一起，就会有什么样的人生!</string>
+    <string name="jdsj_word4">
+        一根稻草丢在大街上是垃圾，绑在大白菜上可以卖白菜的价格，绑在大闸蟹上就是大闸蟹的价格。和什么样的人在一起，就会有什么样的人生。人抬人，抬出伟人；道抬道，抬出高道！读万卷书，不如行万里路；行万里路，不如阅人无数；阅人无数，不如贵人相助；贵人相助，不如高人指路。</string>
+    <string name="jdsj_word5">
+        人生就是这样，想和聪明的人在一起，你就得聪明；想和优秀的人在一起，你就得优秀。善于发现别人的优点，并把它转化成自己的长处，你就会成为聪明人；善于把握人生的机遇，并把它转化成自己的机遇，你就会成为优秀者。</string>
+    <string name="jdsj_word6">人生，就是要懂得放大别人的优点，欣赏别人的长处，要相信"三人行，必有我师!"人生，要懂得放大别人的优点，欣赏别人的长处， 才能相互协作， 相互支持，
+        相互成长，价值共赢！送给走在成功路上朋友们！
+    </string>
+
+    <string name="liz_cn_1">与其降低你的开支，不如去尝试增加你的收入，这就是努力的理由。</string>
+    <string name="liz_cn_2">活着就该逢山开路，遇水架桥。生活，你给我压力，我还你奇迹！</string>
+    <string name="liz_cn_3">在人生的道路上，从来没有全身而退，坐享其成，不劳而获一说。你不努力，就得出局。</string>
+    <string name="liz_cn_4">单枪匹马你别怕，一腔孤勇又如何，这一路你可以哭，但不能怂，总得熬过无人问津的日子，才能迎来掌声和鲜花。</string>
+    <string name="liz_cn_5">要像溺水的人渴望呼吸一样渴望成功，一秒钟也不能松懈，不然你觉得你凭什么赢。</string>
+    <string name="liz_cn_6">所有美好，都不负归期，选一种姿态让自己活得无可替代，没有所谓的运气，只有绝对的努力。</string>
+    <string name="liz_cn_7">为梦想选择了远方，便没有回头路可以走。所以，要么战死沙场，要么狼狈回乡。</string>
+    <string name="liz_cn_8">身材不好就去锻炼，没钱就努力去赚。别把、窘境迁怒于别人，唯一可以抱怨的，只是不够努力的自己。</string>
+    <string name="liz_cn_9">不为模糊不清的未来担忧，只为清清楚楚的现在努力。</string>
+    <string name="liz_cn_10">梦想的坚持注定有孤独彷徨，因为少不了他人的质疑和嘲笑，但那又怎样，哪怕遍体鳞伤，也要活得漂亮！</string>
+    <string name="liz_cn_11">与其装腔作势企图影响别人，不如咬牙切齿狠命修理自己。</string>
+    <string name="liz_cn_12">如果真苦，你哪有时间喊累。如果真惨，你哪有时间觉得丢脸。因为承受得还不够，所以你才有时间抱怨。</string>
+    <string name="liz_cn_13">没有人会为了你的未来买单，你要么努力向上爬，要么烂在社会最底层的泥淖里，这就是生活。</string>
+    <string name="liz_cn_14">不要尽力而为，而要全力以赴，即使没有出色的外表和能力，也要有压倒一切的霸气，用自己的光，照亮自己的路！</string>
+    <string name="liz_cn_15">这个社会，是赢家通吃，输者一无所有，社会，永远都是只以成败论英雄。</string>
+    <string name="liz_cn_16">所有的愤怒，基本上都源自于没钱；所有的励志，基本上目标都是挣钱；所有的幸福，基本上状态都是有钱！</string>
+    <string name="liz_cn_17">若是自己没有尽力，就没有资格批评别人不用心。开口抱怨很容易，但是闭嘴努力的人更加值得尊敬。</string>
+    <string name="liz_cn_18">所谓坚持，就是犹豫着、退缩着、心猿意马着，想过99次放弃，但最后你还是继续往前走了。所谓坚持，有时候只是硬撑的另一个名字。</string>
+    <string name="liz_cn_19">不是井里没有水，而是你挖的不够深；不是成功来的慢，而是你努力的不够狠。</string>
+    <string name="liz_cn_20">车子有油、手机有电、卡里有钱！这就是安全感！指望别人都是扯淡！再牛逼的副驾驶，都不如自己紧握方向盘。</string>
+    <string name="liz_cn_21">别人再好，也是别人。自己再不堪，也是自己，独一无二的自己。只要努力去做最好的自己，一生足矣。为自己的人生负责，为自己的梦想买单。</string>
+
+    <string name="liz_en_1">Instead of reducing your expenses, try to increase your income. That\'s why you work hard.</string>
+    <string name="liz_en_2">To live is to open roads in mountains and build bridges in waters. Life, you give me pressure, I also you miracle!</string>
+    <string name="liz_en_3">On the road of life, never retreat from the whole body, enjoy its achievements and get something for nothing. If you don\'t work hard, you\'re out.</string>
+    <string name="liz_en_4">Don\'t be afraid to shoot a single horse. What about being alone and brave? You can cry all the way, but you can\'t be angry. You have to go through the days when nobody cares about it to welcome applause and flowers.</string>
+    <string name="liz_en_5">Be as eager to succeed as a drowning person is to breathe, and don\'t slacken off for a second, or what do you think you\'re going to win?</string>
+    <string name="liz_en_6">All good things come to an end. Choose a gesture to make your life irreplaceable. There is no so-called luck, only absolute effort.</string>
+    <string name="liz_en_7">Choose a distance for your dream, there is no way back. So, either die in the battle or return home in awkwardness.</string>
+    <string name="liz_en_8">Exercise when you are in bad shape, and try to earn when you have no money. Don\'t turn your embarrassment on others. The only thing you can complain about is yourself who doesn\'t work hard enough.</string>
+    <string name="liz_en_9">Don\'t worry about the vague future, just strive for the clear present.</string>
+    <string name="liz_en_10">Dream perseverance is doomed to loneliness and hesitation, because there is no lack of other people\'s doubts and ridicule, but then what, even if all over the bruises, also want to live beautifully!</string>
+    <string name="liz_en_11">Rather than pretending to influence others, it\'s better to grind your teeth and repair yourself.</string>
+    <string name="liz_en_12">If it\'s really bitter, you don\'t have time to shout tired. If it\'s really tragic, there\'s no time for you to feel ashamed. Because it\'s not enough, you have time to complain.</string>
+    <string name="liz_en_13">No one will pay for your future. You either try to climb up or rot in the mud at the bottom of society. That\'s life.</string>
+    <string name="liz_en_14">Don\'t try your best, but try your best. Even if you don\'t have excellent appearance and ability, you should have overwhelming domineering power and use your own light to illuminate your way.</string>
+    <string name="liz_en_15">In this society, winners eat everything, losers have nothing, and society is always a hero only by success or failure.</string>
+    <string name="liz_en_16">All the anger basically comes from lack of money. All motivation, basically the goal is to make money; all happiness, basically the state is rich!</string>
+    <string name="liz_en_17">If you don\'t try your best, you are not qualified to criticize others for not being careful. It\'s easy to complain, but people who shut up and work hard deserve more respect.</string>
+    <string name="liz_en_18">The so-called persistence means hesitating, shrinking, wanting to give up 99 times, but at last you go on. The so-called persistence is sometimes just another name of hard support.</string>
+    <string name="liz_en_19">It\'s not that there\'s no water in the well, it\'s that you don\'t dig deep enough; it\'s not that success comes slowly, it\'s that you don\'t work hard enough.</string>
+    <string name="liz_en_20">Cars have oil, cell phones have electricity, Cary has money! That\'s the sense of security! Expecting others is bullshit! No matter how hard the co-driver is, it\'s better to grip the steering wheel by himself.</string>
+    <string name="liz_en_21">No matter how good others are, they are others. I can\'t bear it anymore, but I am also my unique self. As long as you work hard to be the best of yourself, life is enough. Be responsible for your life and pay for your dreams.</string>
+
+</resources>
